@@ -1,7 +1,7 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 3,
-	"name": "firsttracks/mega-menu",
+	"name": "outermost/mega-menu",
 	"version": "0.1.0",
 	"title": "Mega Menu",
 	"category": "design",
