@@ -1,12 +1,14 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 3,
-	"name": "outermost/mega-menu",
+	"name": "firsttracks/mega-menu",
 	"version": "0.1.0",
 	"title": "Mega Menu",
 	"category": "design",
 	"description": "Add a mega menu to your navigation.",
-	"parent": [ "core/navigation" ],
+	"parent": [
+		"core/navigation"
+	],
 	"example": {},
 	"attributes": {
 		"label": {
